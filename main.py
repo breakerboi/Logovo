@@ -11,4 +11,4 @@ print(number)
 
 # lesson 7
 
-123
+123456
