@@ -7,5 +7,5 @@ data = input()
 number = 5 if data == 'five' else 234
 print(number)
 
-
+# lesson 6
 
