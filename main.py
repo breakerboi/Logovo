@@ -9,3 +9,5 @@ print(number)
 
 # lesson 6
 
+# lesson 7
+
